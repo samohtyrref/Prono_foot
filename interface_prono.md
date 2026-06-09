@@ -24,33 +24,54 @@ Le programme devrait être un programme python nommé `<trigramme>_prono.py`
 Le programme sera exécuté avec la commande suivante: `python <trigramme>_prono.py <pays1> <pays2>`.
 
 > Le pays1 et pays2 sera parmis l'un des suivants (les deux étant différent):
+> * Canada
+> * Etats_Unis
+> * Mexique
+> * Arabie_saoudite
+> * Australie
+> * Irak
+> * Japon
+> * Jordanie
+> * Ouzbekistan
+> * Qatar
+> * Republique_de_Coree
+> * RI_Iran
+> * Afrique_du_Sud
+> * Algerie
+> * Cap_Vert
+> * Cote_d_Ivoire
+> * Egypte
+> * Ghana
+> * Maroc
+> * RD_Congo
+> * Senegal
+> * Tunisie
+> * Curacao
+> * Haiti
+> * Panama
+> * Argentine
+> * Bresil
+> * Colombie
+> * Equateur
+> * Paraguay
+> * Uruguay
+> * Nouvelle_Zelande
 > * Allemagne
 > * Angleterre
-> * Arabie_saoudite
-> * Argentine
+> * Autriche
 > * Belgique
-> * Bresil
-> * Cameroun
-> * Canada
+> * Bosnie_Herzegovine
 > * Croatie
-> * Danemark
-> * Equateur
-> * Espagne
+> * Ecosse
 > * France
-> * Ghana
-> * Japon
-> * Maroc
-> * Pologne
+> * Espagne
+> * Norvege
+> * Pays-Bas
 > * Portugal
-> * Coree
-> * Iran
-> * Pays_Bas
-> * Qatar
-> * Senegal
-> * Serbie
+> * Suede
 > * Suisse
-> * Tunisie
-> * Uruguay
+> * Tchequie
+> * Turquie
 
 ## Interface de sortie ##
 
